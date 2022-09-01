@@ -1,0 +1,5 @@
+spring:
+  profiles:
+    group:
+      "dev-profile": "dev,jwt"
+      "prod-profile": "prod,jwt"
